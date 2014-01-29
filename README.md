@@ -5,6 +5,8 @@ Very screensaver. Just wraps [dogeweather.com](http://dogeweather.com) in an OS 
 
 See [dogeweather.com](http://dogeweather.com) for more infoz.
 
+So [binary](https://www.dropbox.com/s/20jf714vwnx32p4/DogeWeather.zip).
+
 Such Usage
 ----------
 
