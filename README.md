@@ -1,7 +1,7 @@
 DogeWeather
 ===========
 
-Very screensaver. Just wraps [dogeweather.com](http://dogeweather.com) in an OS X screesaver.
+Very screensaver. Just wraps [dogeweather.com](http://dogeweather.com) in an OS X screensaver.
 
 See [dogeweather.com](http://dogeweather.com) and [github](https://github.com/katiaeirin/dogeweather) for more infoz.
 
